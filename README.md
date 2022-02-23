@@ -22,8 +22,9 @@ Let's show you how to select and modify code with our API
 
 ```javascript
 const a = 1;
-const b = 2;
-```
+常量 b = 2;
+const c = 3;
+ ```
 
 ### Transform With GoGoCode
 
